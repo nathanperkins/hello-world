@@ -1,2 +1,3 @@
 # hello-world
-An example repo for one of my classes
+
+I'm just making a change to this file to prove I can :)
